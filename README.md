@@ -1,6 +1,7 @@
 Tento test se dělá podle naší existující hry, kterou můžete stáhnout zde:
 
 https://play.google.com/store/apps/details?id=com.hgamesart.creepyscreamhorror
+https://www.crazygames.com/game/creepy-granny-scream-scary-freddy
 
 Video: https://youtu.be/y0vjoipBg6E
 
